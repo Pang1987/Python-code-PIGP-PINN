@@ -3,4 +3,4 @@ Here are the Python codes for the numerical examples in the book chapter
 Using them you can implement physics-infromed Gaussian processes and physics-informed neural networks in solving linear and nonlinear partial differential equations. The codes can handle both forward problem and inverse  can   
 
 
-The codes were tested to run on both Linux and Windows.  A TensorFlow with version 1.13.1 was required to install. 
+The codes were tested to run on both Linux and Windows.  A TensorFlow with version 1.13.1 is required to install. 
